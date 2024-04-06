@@ -1,4 +1,3 @@
-
 const pathboat = document.querySelector('.pathboat');
 const lengthboat = pathboat.getTotalLength(); 
     pathboat.style.transition = pathboat.style.WebkitTransition = 'none';
