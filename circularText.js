@@ -22,5 +22,5 @@ gsap.to(".arrow",{
     start:"center center",
     toggleActions: "restart resume reverse none"
   },
-  opacity:1
+  opacity:0.9
 });
